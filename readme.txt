@@ -5,3 +5,4 @@ git has a mutable index called stage
 x
 x
 123456
+xuxu
